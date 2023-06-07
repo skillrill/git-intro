@@ -1,0 +1,7 @@
+# output files
+*.log
+*.png
+
+# system generated files
+__pycache__/
+evidence/
