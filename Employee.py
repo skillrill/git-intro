@@ -10,10 +10,12 @@ class Employee:
 Mike = Employee()
 Jane = Employee()
 Bob = Employee()
+Anna = Employee()
 
 print(f'Vacation days of Mike is {Mike.vacation_days}')
 print(f'Vacation days of Bob is {Bob.vacation_days}')
 print(f'Vacation days of Jane is {Jane.vacation_days}')
+print(f'Vacation days of Jane is {Anna.vacation_days}')
 
 # change object attribute value
 print('Vacations days of Jane increased to 20')
