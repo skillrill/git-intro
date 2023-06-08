@@ -4,6 +4,7 @@ class Car:
         self.model = model
         self.year = year
         self.speed = 10
+        self.used = False
     
     def accelerate(self, increment):
         self.speed += increment
